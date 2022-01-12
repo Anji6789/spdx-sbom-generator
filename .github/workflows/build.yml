@@ -44,5 +44,5 @@ jobs:
             echo "::error::bom-go-mod.spdx is missing. Must generate using the spdx-sbom-generator cli."
             exit 1
           else
-             echo "Success!"            
+             echo "Successful!"            
           fi           
